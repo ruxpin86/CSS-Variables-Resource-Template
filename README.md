@@ -1,0 +1,1 @@
+# CSS-Variables-Resource-Template
